@@ -1,6 +1,22 @@
 # PDF_accessibility_fixer
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d56d77f520da4a4e8a54f04f12a99c8b)](https://app.codacy.com/gh/R0mb0/PDF_accessibility_fixer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/PDF_accessibility_fixer)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/PDF_accessibility_fixer)
+[![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+[![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
+
 Client-side tool to check and fix PDF accessibility. Analyze PDFs for text layer accessibility, detect image-only pages, and rebuild selectable text layers with browser-based OCR—no server or backend required. Perfect for privacy-first and legacy environments.
+
+<div align="center">
+
+## [👉 Click here to test the page! 👈](https://r0mb0.github.io/PDF_accessibility_fixer/)
+
+[![example 1](https://github.com/R0mb0/PDF_accessibility_fixer/blob/main/ReadMe_Imgs/example1.png)](https://r0mb0.github.io/PDF_accessibility_fixer/)
+
+[![example 2](https://github.com/R0mb0/PDF_accessibility_fixer/blob/main/ReadMe_Imgs/example2.png)](https://r0mb0.github.io/PDF_accessibility_fixer/)
+
+</div>
 
 ---
 
