@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Correct PDF with OCR</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <!-- Local JS libraries -->
+    <script src="pdf.js"></script>
+    <script src="tesseract.min.js"></script>
+    <script src="pdf-lib.min.js"></script>
+</head>
+<body>
+    <div id="main-content">
+        <div class="centered">
+            <button id="uploadBtn" class="rounded-btn">Upload PDF files to correct</button>
+            <input type="file" id="fileInput" accept="application/pdf" multiple style="display:none;">
+        </div>
+        <div id="progressContainer" class="progress-section" style="display:none;">
+            <div id="progressTitle"></div>
+            <div class="progress-bar-bg">
+                <div id="progressBar" class="progress-bar-fill"></div>
+            </div>
+        </div>
+        <div id="resultsSection" style="display:none;">
+            <button id="uploadAgainBtn" class="rounded-btn">Upload more files</button>
+            <div id="resultsTableContainer"></div>
+        </div>
+    </div>
+    <script src="ocr-corrector.js"></script>
+</body>
+</html>
