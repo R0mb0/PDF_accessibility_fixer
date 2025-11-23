@@ -1,4 +1,4 @@
-# PDF_accessibility_fixer
+# PDF accessibility fixer
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d56d77f520da4a4e8a54f04f12a99c8b)](https://app.codacy.com/gh/R0mb0/PDF_accessibility_fixer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![pages-build-deployment](https://github.com/R0mb0/PDF_accessibility_fixer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/PDF_accessibility_fixer/actions/workflows/pages/pages-build-deployment)
