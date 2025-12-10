@@ -1,6 +1,7 @@
-# PDF_accessibility_fixer
+# PDF accessibility fixer
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d56d77f520da4a4e8a54f04f12a99c8b)](https://app.codacy.com/gh/R0mb0/PDF_accessibility_fixer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![pages-build-deployment](https://github.com/R0mb0/PDF_accessibility_fixer/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/PDF_accessibility_fixer/actions/workflows/pages/pages-build-deployment)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/PDF_accessibility_fixer)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/R0mb0/PDF_accessibility_fixer)
 [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)

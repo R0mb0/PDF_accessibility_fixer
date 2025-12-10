@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "PDF_accessibility_fixer"
+version: 1.0.0
+date-released: 2025-10-21
+url: "https://github.com/R0mb0/PDF_accessibility_fixer"
