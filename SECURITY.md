@@ -1,31 +1,20 @@
-Thanks for helping make GitHub safe for everyone.
+# Security Policy
 
-## Security
+## Reporting a Vulnerability
 
-GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+If you believe you've found a security vulnerability in this repository, please report it privately rather than opening a public Issue or Pull Request.
 
-Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation.
+Please send an email to <f.rombaldoni@campus.uniurb.it> instead of using public GitHub Issues, Discussions, or Pull Requests.
 
-## Reporting Security Issues
+Please include as much of the following as you can, to help triage the report faster:
 
-If you believe you have found a security vulnerability in this repository, please report it to me through coordinated disclosure.
-
-Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.
-
-Instead, please send an email to [f.rombaldoni@campus.uniurb.it.](mailto:f.rombaldoni@campus.uniurb.it.)
-
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
-
-- The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
-- Full paths of source file(s) related to the manifestation of the issue
-- The location of the affected source code (tag/branch/commit or direct URL)
-- Any special configuration required to reproduce the issue
+- Type of issue (e.g. cross-site scripting, SQL injection, exposed credentials, a dependency with a known vulnerability)
+- Full path(s) of the affected file(s)
+- The affected commit, branch, or tag
 - Step-by-step instructions to reproduce the issue
-- Proof-of-concept or exploit code (if possible)
-- Impact of the issue, including how an attacker might exploit the issue
+- Proof-of-concept code, if applicable
+- Potential impact, and how it could be exploited
 
-This information will help me to triage your report more quickly.
+## What to expect
 
-## Policy
-
-See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+This is a personal, unpaid open source project — there is no bug bounty program and no monetary reward for reports. Valid reports will be acknowledged, fixed as soon as reasonably possible, and credited in the fix unless you'd rather stay anonymous.
