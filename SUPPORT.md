@@ -1,16 +1,14 @@
 # Support
 
-## How to file issues and get help
+Thanks for your interest in this project.
 
-This project uses GitHub issues to track bugs and feature requests.
-Please search the existing issues before filing new issues to avoid duplicates.
-For new issues, file your bug or feature request as a new issue.
+## Where to get help
 
-For help or questions about using this project, please use the GitHub Discussions.
+- **Found a bug?** Open an [Issue](../../issues) in this repository, using the bug report template.
+- **Have an idea or feature request?** Open an [Issue](../../issues) using the feature request template.
+- **Found a security vulnerability?** Please do **not** open a public Issue — see [SECURITY.md](SECURITY.md) for how to report it privately.
+- **General questions?** Feel free to open an Issue too — there's no separate discussion forum for this project at the moment.
 
-This repository is under active development and maintained by GitHub staff and the community.
-We will do our best to respond to support, feature requests, and community questions in a timely manner.
+## What to expect
 
-## GitHub Support Policy
-
-Support for this project is limited to the resources listed above.
+This is a personal, unpaid open source project maintained in spare time by a single maintainer. There's no guaranteed response time, but Issues are read and answered when possible. Clear, well-described reports (steps to reproduce, expected vs. actual behavior, environment details) get answered faster.
