@@ -1,56 +1,26 @@
 # Contributing
 
-👍🎉 Thanks a lot for considering contributing 🎉👍
+Thanks for considering contributing to this project! Contributions of all kinds are welcome — bug reports, feature suggestions, documentation improvements, and code.
 
-The community welcomes and encourages contribution. There is many way to contribute: you can
-write bug report, contribute code or documentation.
+If this is your first time contributing to an open source project on GitHub, this guide is a good starting point: [How to Contribute to an Open Source Project on GitHub](https://opensource.guide/how-to-contribute/).
 
-## Working on your first Pull Request?
+Please also read the [Code of Conduct](CODE_OF_CONDUCT.md) — it applies to all interactions in this repository. Security vulnerabilities should be reported privately following [SECURITY.md](SECURITY.md), not as a public Issue.
 
-You can learn how from this *free* series
- [How to Contribute to an Open Source Project on GitHub]
-(<https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github>)
+## Reporting a bug
 
-## Reporting issues
+Open an Issue using the bug report template. Include steps to reproduce, what you expected to happen, what actually happened, and your environment (OS, version, etc. — whatever is relevant for this project).
 
-When reporting issues the more information you can supply the better.
+## Suggesting an improvement
 
-If it is an issue with building the LaTeX package, indicate your
- environment like operating system and,
- version of MikTeX your are using.
+Open an Issue using the feature request template. Describe the problem you're trying to solve, not just the solution you have in mind — it makes it easier to evaluate alternatives.
 
-## Improvements request and proposal
+## Contributing code
 
-Feel free to make an issue to request a new functionality.
+1. Fork the repository and create a branch for your change.
+2. Keep each pull request focused on a single reason for change — don't bundle unrelated fixes together.
+3. If your change relates to an existing Issue, reference it in the pull request description.
+4. Try to match the existing coding style and conventions used in the project.
+5. Describe **why** the change is needed, not just what it changes — this makes review much faster.
+6. Open the pull request using the provided template.
 
-## Contributing code/Pull-Request
-
-The community welcomes contribution, this can be done by starting a pull-request.
-You can contribute by updating the package content or styling, code (
-.cls file), or both.
-
-### Contributing content or styling
-
-There is a couple of basic requirement for us to merge the pull request:
-
-- The styling should maintain the compatibility with previous versions.
- For example, if you plan to add a new number to the contact information,
- it should be optional and not mandatory allowing not to change anything
- to the other users of the package.
-
-### Contributing code
-
-If the change is big, typically if the change span to more than one file,
- consider starting an issue first to discuss the improvement.
- This will makes it much easier to make the change fit well into the package.
-
-There is some basic requirement for us to merge a pull request:
-
-- Describe the change
-- Refer to any issues it effects
-- Separate one pull request per functionality: if you start writing "and"
- in the feature description consider if it could be separated in two pull requests.
-
-In your code:
-
-- Make sure the coding style of your code follows the style of the file.
+All contributions are reviewed by a human before being merged; please be patient, this is a personal project maintained in spare time.
